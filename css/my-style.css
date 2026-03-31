@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.article.content {
+  min-height: 0vh;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  background: #0a0f0d; /* negro verdoso profundo */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #c9a45c;
+  }
+}
+
+.myst-landing-split-img-content {
+  background: #3d3e22; /* negro dorado profundo */
+}
+
+.myst-primary-sidebar-footer {
+  display: none;
+}
+
+
+.myst-top-nav {
+  background: rgba(185, 199, 191, 0.12) !important; /* negro dorado profundo */
+  color: #e2e8e3;      /* marfil apagado */
+}

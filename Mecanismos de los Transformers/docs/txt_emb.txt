@@ -1,0 +1,70 @@
+king man ruler royal crown.
+queen woman ruler royal crown.
+
+man male human adult person.
+woman female human adult person.
+
+king male royal ruler leader.
+queen female royal ruler leader.
+
+king man male human ruler.
+queen woman female human ruler.
+
+king kingdom nation state.
+queen kingdom nation state.
+
+king throne crown power.
+queen throne crown power.
+
+royal king man authority rule.
+royal queen woman authority rule.
+
+teacher student knowledge school.
+student lesson knowledge school.
+
+doctor patient health hospital.
+patient health hospital.
+
+engineer system machine structure.
+system machine process.
+
+artist painting art studio.
+painting art color.
+
+lion animal wild nature predator.
+bird animal fly sky wing.
+fish animal swim water river.
+
+animal lives nature ecosystem.
+predator hunts prey survival.
+
+hammer tool metal build.
+screwdriver tool metal turn.
+computer machine data process.
+keyboard device input text.
+vehicle transport road wheel.
+engine motor fuel power.
+
+forest nature tree leaf.
+ocean water wave salt.
+desert sand heat dry.
+mountain rock height cold.
+
+king man dynasty lineage blood.
+queen woman dynasty lineage blood.
+
+king man law justice decree.
+queen woman law justice decree.
+
+king man ceremony coronation.
+queen woman ceremony coronation.
+
+king man loyalty honor duty.
+queen woman loyalty honor duty.
+
+man woman human society culture.
+male female gender biology.
+
+king man woman queen.
+king man woman queen.
+king man queen woman.
