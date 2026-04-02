@@ -1,4 +1,4 @@
-# AI Papers
+# AI, the Way
 
 Repositorio de estudio y documentación sobre arquitecturas Transformer y temas relacionados en Deep Learning, con notebooks explicativos, visualizaciones y publicación web con MyST.
 
